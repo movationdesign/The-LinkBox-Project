@@ -19,13 +19,13 @@ Now every time you stumble over an interesting link, you can quickly save it
 and know that you can check it out when you're done reading. 
 
 To dos:
-1. 
-Use localStorage to make sure that the LinkBox doesn't go away
+1. Use localStorage to make sure that the LinkBox doesn't go away
 if the user accidentally close the tab / browser. 
 
-2. 
-Make a Save to TXT, Save to HTML, and Send to Email function, so the user can quickly 
+2. Make a Save to TXT, Save to HTML, and Send to Email function, so the user can quickly 
 save their links permanently. 
 
 
-Written in jQuery — but I will rewrite it in Vanilla JavaScript to optimize performance (especially on animations).
+JavaScript library: jQuery
+
+I will re-write it in Vanilla JavaScript to optimize performance (especially on animations).
